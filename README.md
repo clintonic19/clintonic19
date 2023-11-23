@@ -11,7 +11,7 @@ I'm a Software Engineer, IT Specialist or Technician, and Customer care Rep who 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Nodejs for building responsive web pages and API's.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer, or UI Engineer (Intern or Junior level).
-- 🌱 I'm knowledgeable in Nodejs, Python, and Django framework, Numpy, and RestAPI's
+- 🌱 I'm knowledgeable in Nodejs, express, ejs, Python, and Django framework, Numpy, and RestAPI's
 - 📫 You can [view my resume](#) and contact me by emailing clintonic8@gmail.com.
 
 ---
