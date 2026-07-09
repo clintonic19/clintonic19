@@ -7,7 +7,7 @@ I'm an enthusiastic Software Engineer, IT Specialist, Technician, and Customer c
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: Studied with AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022/2023 and I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023/2024.
+- 💡 Fun fact: Studied with AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022/2023, 2023/2024, and [TS Academy](https://tsacademyonline.com/) Backend Developer class of 2026.
 - 🌱 I’m knowledgeable in HTML, CSS, tailwindcss, JavaScript, Reactjs, and Nodejs for building responsive web pages and API's.
 - 😊 I’m looking for help with open source projects, Volunteers, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer, or UI Engineer (Intern or Junior level).
